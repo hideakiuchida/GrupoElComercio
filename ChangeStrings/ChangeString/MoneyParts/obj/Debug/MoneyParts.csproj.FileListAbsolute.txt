@@ -1,0 +1,6 @@
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\MoneyParts\bin\Debug\MoneyParts.exe.config
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\MoneyParts\obj\Debug\MoneyParts.csprojResolveAssemblyReference.cache
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\MoneyParts\bin\Debug\MoneyParts.exe
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\MoneyParts\bin\Debug\MoneyParts.pdb
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\MoneyParts\obj\Debug\MoneyParts.exe
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\MoneyParts\obj\Debug\MoneyParts.pdb

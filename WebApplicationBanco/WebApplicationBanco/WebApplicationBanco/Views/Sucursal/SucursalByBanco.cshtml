@@ -1,0 +1,71 @@
+﻿@model IEnumerable<WebApplicationBanco.Models.SucursalViewModels>
+
+@{
+    ViewBag.Title = "SucursalByBanco";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SucursalByBanco</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <table class="table">
+            <tr>
+                <td><b>Seleccionar Moneda:</b></td>
+                <td>@Html.DropDownList("Bancos", ViewData["Bancos"] as IEnumerable<SelectListItem>, "Seleccionar Banco")</td>
+            </tr>
+        </table>
+    </div>
+    <p><input type="submit" value="Buscar" /></p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SurcursalID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaRegistro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BancoID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SurcursalID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaRegistro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BancoID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

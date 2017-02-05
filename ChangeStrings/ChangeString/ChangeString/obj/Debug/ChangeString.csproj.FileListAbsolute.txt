@@ -1,0 +1,6 @@
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\ChangeString\bin\Debug\ChangeString.exe.config
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\ChangeString\obj\Debug\ChangeString.csprojResolveAssemblyReference.cache
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\ChangeString\bin\Debug\ChangeString.exe
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\ChangeString\bin\Debug\ChangeString.pdb
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\ChangeString\obj\Debug\ChangeString.exe
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\ChangeString\obj\Debug\ChangeString.pdb

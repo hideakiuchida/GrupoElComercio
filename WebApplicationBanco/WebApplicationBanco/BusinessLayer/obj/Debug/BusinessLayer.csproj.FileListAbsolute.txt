@@ -1,0 +1,7 @@
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\bin\Debug\ModelLayer.dll
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\bin\Debug\ModelLayer.pdb
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Repository\GrupoElComercio\WebApplicationBanco\WebApplicationBanco\BusinessLayer\obj\Debug\BusinessLayer.pdb

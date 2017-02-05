@@ -1,0 +1,5 @@
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\CompleteRange\bin\Debug\CompleteRange.exe.config
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\CompleteRange\bin\Debug\CompleteRange.exe
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\CompleteRange\bin\Debug\CompleteRange.pdb
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\CompleteRange\obj\Debug\CompleteRange.exe
+D:\Repository\GrupoElComercio\ChangeStrings\ChangeString\CompleteRange\obj\Debug\CompleteRange.pdb
